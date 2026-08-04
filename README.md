@@ -1,1 +1,1 @@
-# Emotion Detection Web Application
+# Final Project - Emotion Detection Web Application
